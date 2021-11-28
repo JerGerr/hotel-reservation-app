@@ -1,7 +1,11 @@
 # hotel-reservation-app
 A hotel reservation app built with Spring Boot
 
-The project has been published on Heroku. The link you will find on the next line.
+Heroku link: https://hotel-reservation-app-jan.herokuapp.com/
 
-Heroku: https://hotel-reservation-app-jan.herokuapp.com/your-reservations
+You either create your own user account pr use:
+Email:    jan@yahoo.com
+Password: jergerr123
+
+
 
